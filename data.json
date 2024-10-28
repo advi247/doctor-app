@@ -1,0 +1,1494 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "category": "Cardiologist",
+      "img": "cardiologist"
+    },
+    {
+      "id": "2",
+      "category": "Dentist",
+      "img": "dentist"
+    },
+    {
+      "id": "3",
+      "category": "Dermatologist",
+      "img": "dermatologist"
+    },
+    {
+      "id": "4",
+      "category": "Diabetologist",
+      "img": "diabetologist"
+    },
+    {
+      "id": "5",
+      "category": "Endocrinologist",
+      "img": "endocrinologist"
+    },
+    {
+      "id": "6",
+      "category": "ENT",
+      "img": "ent"
+    },
+    {
+      "id": "7",
+      "category": "General Physician",
+      "img": "generalphysician"
+    },
+    {
+      "id": "8",
+      "category": "Gynecologist",
+      "img": "gynecologist"
+    },
+    {
+      "id": "9",
+      "category": "Neurologist",
+      "img": "neurologist"
+    },
+    {
+      "id": "10",
+      "category": "Oncologist",
+      "img": "oncologist"
+    },
+    {
+      "id": "11",
+      "category": "Ophthalmologist",
+      "img": "ophthalmologist"
+    },
+    {
+      "id": "12",
+      "category": "Orthopedician",
+      "img": "orthopedician"
+    },
+    {
+      "id": "13",
+      "category": "Pediatrician",
+      "img": "pediatrician"
+    },
+    {
+      "id": "14",
+      "category": "Physiotherapist",
+      "img": "physiotherapist"
+    },
+    {
+      "id": "15",
+      "category": "Psychologist",
+      "img": "psychologist"
+    },
+    {
+      "id": "16",
+      "category": "Pulmonologist",
+      "img": "pulmonologist"
+    },
+    {
+      "id": "17",
+      "category": "Surgeon",
+      "img": "surgeon"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "1",
+      "category": "Cardiologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. R. Mukund",
+          "speciality": "Heart Failure Specialist",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Apollo Hospitals",
+          "location": "Anna Nagar",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Ganesh Prasad",
+          "speciality": "Pulmonary Hypertension Specialist",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "9 AM-1 PM, 4 PM-8 PM",
+          "clinic": "Happy Hearts",
+          "location": "Anna Nagar",
+          "image": "male"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Anushka Vipin",
+          "speciality": "Electrophysiologist",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Global Hospitals",
+          "location": "Perumbakkam",
+          "image": "female"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category": "Dentist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. V. Susila Anand",
+          "speciality": "Endodontist",
+          "qual": "BDS, MDS, PhD (IITM)",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "Mangalam Dental Clinic",
+          "location": "T. Nagar",
+          "image": "female"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Selvakumar",
+          "speciality": "Periodontist",
+          "qual": "BDS, MDS",
+          "experience": "25",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "Happy Teeth",
+          "location": "Anna Nagar",
+          "image": "male"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. S. Saishamini",
+          "speciality": "Endodontist",
+          "qual": "BDS, MDS",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "Sai Dental Clinic",
+          "location": "Adyar",
+          "image": "female"
+        },
+        {
+          "id": "d4",
+          "name": "Dr. Anand. S",
+          "speciality": "Pediatric Dentistry",
+          "qual": "BDS, MDS",
+          "experience": "10",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "Anand Dental Clinic",
+          "location": "Thiruvanmiyur",
+          "image": "male"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category": "Dermatologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Shuba",
+          "speciality": "Dermatopathology",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "5 PM-9 PM",
+          "clinic": "The Skin Clinic",
+          "location": "RA Puram",
+          "image": "female"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Vasudevan",
+          "speciality": "Laser Surgery",
+          "qual": "MBBS, MD",
+          "experience": "10",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "Skin Specialists",
+          "location": "Besant Nagar",
+          "image": "male"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Mohan",
+          "speciality": "Pediatric Dermatology",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "SkinMed",
+          "location": "Mahalingapuram",
+          "image": "male"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "category": "Diabetologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Srikrithi Santhanam",
+          "speciality": "General",
+          "qual": "MBBS, MD",
+          "experience": "15",
+          "days": "Mon-Sat",
+          "timing": "6 PM-9 PM",
+          "clinic": "Srushti Diabetic Clinic",
+          "location": "Kotturpuram",
+          "image": "female"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Archana",
+          "speciality": "Gestational Diabetes",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Apollo Hospitals",
+          "location": "Greams Road",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Santhanam",
+          "speciality": "General",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Fri",
+          "timing": "4 PM-8 PM",
+          "clinic": "JM Diabetes Center",
+          "location": "Navalur",
+          "image": "male"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "category": "Endocrinologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Ramesh Babu",
+          "speciality": "Thyroid Disease",
+          "qual": "MBBS, MD",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-12 PM, 5 PM-8 PM",
+          "clinic": "Thyroid Centre",
+          "location": "Nungambakkam",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Usha Padmanabhan",
+          "speciality": "Pituitary Gland",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "Neuberg Diagnostics",
+          "location": "Guindy",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Gayathri Narayan",
+          "speciality": "PCOS/PCOD",
+          "qual": "MBBS, MD",
+          "experience": "12",
+          "days": "Mon-Sat",
+          "timing": "5:30 PM-8:30 PM",
+          "clinic": "She Diagnostics",
+          "location": "Porur",
+          "image": "female"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "category": "ENT",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Mahesh",
+          "speciality": "Rhinology",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "ENT Clinic",
+          "location": "Burkit Road",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Mona Raj",
+          "speciality": "Head & Neck Surgery",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Fri",
+          "timing": "5 PM-8 PM",
+          "clinic": "Royal Pearl Clinic",
+          "location": "Mogappair",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Jayasekar",
+          "speciality": "Otologist (Ear Infections)",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "KKR Hospitals",
+          "location": "Tambaram",
+          "image": "male"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "category": "General Physician",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Gita Badrinath",
+          "speciality": "Family Medicine",
+          "clinic": "Bharathiraja Hospitals",
+          "qual": "MBBS",
+          "experience": "10",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "location": "G. N. Chetty Road",
+          "image": "female"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Kavitha Anand",
+          "speciality": "General Medicine",
+          "qual": "MBBS",
+          "experience": "5",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "ABC Clinic",
+          "location": "Pallavaram",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Parameshwar",
+          "speciality": "Pediatrics",
+          "qual": "MBBS",
+          "experience": "7",
+          "days": "Mon-Sat",
+          "timing": "6 PM-9 PM",
+          "clinic": "Tiny Tots Clinic",
+          "location": "Semmancheri",
+          "image": "female"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "category": "Gynecologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Srinithi Santhanam",
+          "speciality": "Maternal-Fetal Medicine",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Global Hospitals",
+          "location": "Perumbakkam",
+          "image": "female"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Sudha Seshadri",
+          "speciality": "Infertility",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "Srushti Clinic",
+          "location": "Kotturpuram",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Ramkumar",
+          "speciality": "Reproductive Endocrinology",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "5 PM-9 PM",
+          "clinic": "Global Hospitals",
+          "location": "Perumbakkam",
+          "image": "male"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "category": "Neurologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Ananth Seshayan",
+          "speciality": "Multiple Sclerosis",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-2 PM, 5 PM-9 PM",
+          "clinic": "Global Hospitals",
+          "location": "Perumbakkam",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. G. Helen Mary",
+          "speciality": "Nueromuscular Medicine",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Apollo Hospitals",
+          "location": "Greams Road",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Ezhilarasan",
+          "speciality": "Epileptology",
+          "qual": "MBBS, MD, DM",
+          "experience": "25",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "Neuro Diagnostics",
+          "location": "Haddows Road",
+          "image": "male"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "category": "Oncologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. A. N. Barath Lakshman",
+          "speciality": "Radiation Oncology",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Apollo Hospitals",
+          "location": "Greams Road",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Kavya Nandan",
+          "speciality": "Pediatric Oncology",
+          "qual": "MBBS, MD",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "Rainbow Hospitals",
+          "location": "Little Mount",
+          "image": "male"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Subramaniam",
+          "speciality": "Surgical Oncologist",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Mehta Hospitals",
+          "location": "Chetpet",
+          "image": "male"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "category": "Ophthalmologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. A. Aditya",
+          "speciality": "Neuro-Ophthalmology",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "Rajan Eye Care",
+          "location": "Nungambakkam",
+          "image": "female"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Ambika Selvakumar",
+          "speciality": "Oculoplastics",
+          "qual": "MBBS, MD",
+          "experience": "25",
+          "days": "Mon-Sat",
+          "timing": "10 AM-12 PM, 6 PM-8 PM",
+          "clinic": "Vasanth Eye Hospitals",
+          "location": "Madhavaram",
+          "image": "male"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Rajendran",
+          "speciality": "Pediatric Ophthalmology",
+          "qual": "MBBS, MD",
+          "experience": "25",
+          "days": "Mon-Sat",
+          "timing": "5 PM-9 PM",
+          "clinic": "Little Flowers Hospital",
+          "location": "Tambaram",
+          "image": "male"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "category": "Orthopedician",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Tejashri Gopal",
+          "speciality": "Sports Medicine",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "9 AM-12 PM, 5 PM-8 PM",
+          "clinic": "Sri Ramachandra Hospitals",
+          "location": "Poonamallee",
+          "image": "female"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Raghuvaran",
+          "speciality": "Hip and Knee Replacement",
+          "qual": "MBBS, MD, DM",
+          "experience": "25",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Pallava Hospitals",
+          "location": "Ashok Nagar",
+          "image": "male"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Deepa Jayaraj",
+          "speciality": "Joint Replacement",
+          "qual": "MBBS, MD",
+          "experience": "15",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "206 Bones",
+          "location": "Thiruvanmiyur",
+          "image": "female"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "category": "Pediatrician",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Guna Hasan",
+          "speciality": "Pediatric Immunology",
+          "qual": "MBBS, MD",
+          "experience": "15",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "Global Hospitals",
+          "location": "Perumbakkam",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Srija Ramesh",
+          "speciality": "Pediatric Orthopedics",
+          "qual": "MBBS, MD",
+          "experience": "18",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "Pallava Hospitals",
+          "location": "Ashok Nagar",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Mallika Arjun",
+          "speciality": "General Pediatrician",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "Rainbow Hospitals",
+          "location": "Little Mount",
+          "image": "female"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "category": "Physiotherapist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Srinath",
+          "speciality": "General Physiotherapy",
+          "qual": "MBBS, MD",
+          "experience": "15",
+          "days": "Mon-Sat",
+          "timing": "5:30 PM-8:30 PM",
+          "clinic": "Sriram Physio Care",
+          "location": "West Mambalam",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Ezra Vasanth",
+          "speciality": "Geriatric Physiotherapy",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "10 AM-12 PM, 5 PM-8 PM",
+          "clinic": "Sai Ortho Care",
+          "location": "CIT Nagar",
+          "image": "male"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. R. Maha",
+          "speciality": "Women's Health",
+          "qual": "MBBS, MD",
+          "experience": "12",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "She Strong Clinic",
+          "location": "Kilpauk",
+          "image": "female"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "category": "Psychologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Srimayi",
+          "speciality": "Clinical Psychiatry",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "Medall",
+          "location": "Guindy",
+          "image": "female"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Kabir",
+          "speciality": "Insomnia Specialist",
+          "qual": "BSc, MSc",
+          "experience": "10",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "The Sleep Clinic",
+          "location": "Nungambakkam",
+          "image": "male"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Hasini",
+          "speciality": "Anxiety and Depression",
+          "qual": "BSc, MSc",
+          "experience": "8",
+          "days": "Mon-Sat",
+          "timing": "5 PM-8 PM",
+          "clinic": "We Care Org",
+          "location": "T. Nagar",
+          "image": "female"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "category": "Pulmonologist",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Udit Krishna",
+          "speciality": "Pulmonary Fibrosis",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Global Hospitals",
+          "location": "Perumbakkam",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Arthi Ranjan",
+          "speciality": "Neoplastic Pulmonology",
+          "qual": "MBBS, MD, DM",
+          "experience": "25",
+          "days": "Mon-Sat",
+          "timing": "10 AM-12 PM, 5 PM-8 PM",
+          "clinic": "Bharathiraja Hospitals",
+          "location": "G. N. Chetty Road",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Ameera",
+          "speciality": "Cystic Fibrosis",
+          "qual": "MBBS, MD",
+          "experience": "25",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "Lung Specialists",
+          "location": "Nandanam",
+          "image": "female"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "category": "Surgeon",
+      "alldocs": [
+        {
+          "id": "d1",
+          "name": "Dr. Mani Kumar",
+          "speciality": "General Surgery",
+          "qual": "MBBS, MD",
+          "experience": "25",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Mehta Hospitals",
+          "location": "Chetpet",
+          "image": "male"
+        },
+        {
+          "id": "d2",
+          "name": "Dr. Andal Shankar",
+          "speciality": "Cardiothoracic Surgery",
+          "qual": "MBBS, MD, DM",
+          "experience": "30",
+          "days": "Mon-Sat",
+          "timing": "4 PM-8 PM",
+          "clinic": "SRM Global Hospitals",
+          "location": "Potheri",
+          "image": "female"
+        },
+        {
+          "id": "d3",
+          "name": "Dr. Venkatram",
+          "speciality": "Neurosurgery",
+          "qual": "MBBS, MD",
+          "experience": "20",
+          "days": "Mon-Sat",
+          "timing": "10 AM-1 PM, 5 PM-8 PM",
+          "clinic": "Apollo Hospitals",
+          "location": "Greams Road",
+          "image": "male"
+        }
+      ]
+    }
+  ],
+  "toprated": [
+    {
+      "id": "d1",
+      "name": "Dr. V. Susila Anand",
+      "category": "Dentist",
+      "speciality": "Endodontist",
+      "qual": "BDS, MDS, PhD (IITM)",
+      "experience": "30",
+      "days": "Mon-Sat",
+      "timing": "5 PM-8 PM",
+      "clinic": "Mangalam Dental Clinic",
+      "location": "T. Nagar",
+      "image": "female"
+    },
+    {
+      "id": "d2",
+      "name": "Dr. A. Aditya",
+      "category": "Ophthalmologist",
+      "speciality": "Neuro-Ophthalmology",
+      "qual": "MBBS, MD, DM",
+      "experience": "30",
+      "days": "Mon-Sat",
+      "timing": "4 PM-8 PM",
+      "clinic": "Rajan Eye Care",
+      "location": "Nungambakkam",
+      "image": "male"
+    },
+    {
+      "id": "d3",
+      "name": "Dr. A. N. Barath Lakshman",
+      "category": "Oncologist",
+      "speciality": "Radiation Oncology",
+      "qual": "MBBS, MD, DM",
+      "experience": "30",
+      "days": "Mon-Sat",
+      "timing": "10 AM-1 PM, 5 PM-8 PM",
+      "clinic": "Apollo Hospitals",
+      "location": "Greams Road",
+      "image": "male"
+    },
+    {
+      "id": "d4",
+      "name": "Dr. Srikrithi Santhanam",
+      "category": "Diabetologist",
+      "speciality": "General",
+      "qual": "MBBS, MD",
+      "experience": "15",
+      "days": "Mon-Sat",
+      "timing": "6 PM-9 PM",
+      "clinic": "Srushti Diabetic Clinic",
+      "location": "Kotturpuram",
+      "image": "female"
+    },
+    {
+      "id": "d5",
+      "name": "Dr. Srinithi Santhanam",
+      "category": "Gynecologist",
+      "speciality": "Maternal-Fetal Medicine",
+      "qual": "MBBS, MD, DM",
+      "experience": "30",
+      "days": "Mon-Sat",
+      "timing": "10 AM-1 PM, 5 PM-8 PM",
+      "clinic": "Global Hospitals",
+      "location": "Perumbakkam",
+      "image": "female"
+    },
+    {
+      "id": "d6",
+      "name": "Dr. S. Anand",
+      "category": "Cardiologist",
+      "speciality": "Heart Failure Specialist",
+      "qual": "MBBS, MD, DM",
+      "experience": "30",
+      "days": "Mon-Sat",
+      "timing": "10 AM-1 PM, 5 PM-8 PM",
+      "clinic": "Apollo Hospitals",
+      "location": "Anna Nagar",
+      "image": "male"
+    },
+    {
+      "id": "d7",
+      "name": "Dr. Udit Krishna",
+      "category": "Pulmonologist",
+      "speciality": "Pulmonary Fibrosis",
+      "qual": "MBBS, MD, DM",
+      "experience": "30",
+      "days": "Mon-Sat",
+      "timing": "10 AM-1 PM, 5 PM-8 PM",
+      "clinic": "Global Hospitals",
+      "location": "Perumbakkam",
+      "image": "male"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "date": "2024-09-28",
+      "time": "6 PM - 9 PM",
+      "patientname": "Advika",
+      "patientage": "21",
+      "patientgender": "Female",
+      "patientnumber": "9884279923",
+      "doctorname": "Dr. R. Mukund",
+      "category": "Cardiologist",
+      "clinic": "Apollo Hospitals",
+      "status": "Confirmed"
+    },
+    {
+      "id": "2",
+      "date": "2024-09-30",
+      "time": "9 AM - 12 PM",
+      "patientname": "Lakshman",
+      "patientage": "22",
+      "patientgender": "Male",
+      "patientnumber": "9884279923",
+      "doctorname": "Dr. V. Susila Anand",
+      "category": "Dentist",
+      "clinic": "Mangalam Dental Clinic",
+      "status": "Confirmed"
+    },
+    {
+      "id": "3",
+      "date": "2024-10-05",
+      "time": "6 PM - 9 PM",
+      "patientname": "Sowmya",
+      "patientage": "23",
+      "patientgender": "Female",
+      "patientnumber": "9884279923",
+      "doctorname": "Dr. Shuba",
+      "category": "Dermatologist",
+      "clinic": "The Skin Clinic",
+      "status": "Pending"
+    },
+    {
+      "id": "4",
+      "date": "2024-10-15",
+      "time": "9 AM - 12 PM",
+      "patientname": "Selvan",
+      "patientage": "24",
+      "patientgender": "Male",
+      "patientnumber": "9884279923",
+      "doctorname": "Dr. Srinath",
+      "category": "Physiotherapist",
+      "clinic": "Sriram Physio Care",
+      "status": "Pending"
+    },
+    {
+      "id": "5",
+      "date": "2024-10-30",
+      "time": "6 PM - 9 PM",
+      "patientname": "Ananya",
+      "patientage": "25",
+      "patientgender": "Female",
+      "patientnumber": "9884279923",
+      "doctorname": "Dr. Srimayi",
+      "category": "Psychologist",
+      "clinic": "Medall",
+      "status": "Pending"
+    }
+  ],
+  "search": [
+    {
+      "category": "Cardiologist",
+      "specialities": [
+        "All",
+        "Heart Failure Specialist",
+        "Pulmonary Hypertension Specialist",
+        "Electrophysiologist"
+      ]
+    },
+    {
+      "category": "Dentist",
+      "specialities": [
+        "All",
+        "Endodontist",
+        "Periodontist",
+        "Pediatric Dentistry"
+      ]
+    },
+    {
+      "category": "Dermatologist",
+      "specialities": [
+        "All",
+        "Dermatopathology",
+        "Laser Surgery",
+        "Pediatric Dermatology"
+      ]
+    },
+    {
+      "category": "Diabetologist",
+      "specialities": [
+        "All",
+        "General",
+        "Gestational Diabetes"
+      ]
+    },
+    {
+      "category": "Endocrinologist",
+      "specialities": [
+        "All",
+        "Thyroid Disease",
+        "Pituitary Gland",
+        "PCOS/PCOD"
+      ]
+    },
+    {
+      "category": "ENT",
+      "specialities": [
+        "All",
+        "Rhinology",
+        "Head & Neck Surgery",
+        "Otologist (Ear Infections)"
+      ]
+    },
+    {
+      "category": "General Physician",
+      "specialities": [
+        "All",
+        "Family Medicine",
+        "General Medicine",
+        "Pediatrics"
+      ]
+    },
+    {
+      "category": "Gynecologist",
+      "specialities": [
+        "All",
+        "Maternal-Fetal Medicine",
+        "Infertility",
+        "Reproductive Endocrinology"
+      ]
+    },
+    {
+      "category": "Neurologist",
+      "specialities": [
+        "All",
+        "Multiple Sclerosis",
+        "Nueromuscular Medicine",
+        "Epileptology"
+      ]
+    },
+    {
+      "category": "Oncologist",
+      "specialities": [
+        "All",
+        "Radiation Oncology",
+        "Pediatric Oncology",
+        "Surgical Oncologist"
+      ]
+    },
+    {
+      "category": "Ophthalmologist",
+      "specialities": [
+        "All",
+        "Neuro-Ophthalmology",
+        "Oculoplastics",
+        "Pediatric Ophthalmology"
+      ]
+    },
+    {
+      "category": "Orthopedician",
+      "specialities": [
+        "All",
+        "Sports Medicine",
+        "Hip and Knee Replacement",
+        "Joint Replacement"
+      ]
+    },
+    {
+      "category": "Pediatrician",
+      "specialities": [
+        "All",
+        "Pediatric Immunology",
+        "Pediatric Orthopedics",
+        "General Pediatrician"
+      ]
+    },
+    {
+      "category": "Physiotherapist",
+      "specialities": [
+        "All",
+        "General Physiotherapy",
+        "Geriatric Physiotherapy",
+        "Women's Health"
+      ]
+    },
+    {
+      "category": "Psychologist",
+      "specialities": [
+        "All",
+        "Clinical Psychiatry",
+        "Insomnia Specialist",
+        "Anxiety and Depression"
+      ]
+    },
+    {
+      "category": "Pulmonologist",
+      "specialities": [
+        "All",
+        "Pulmonary Fibrosis",
+        "Neoplastic Pulmonology",
+        "Cystic Fibrosis"
+      ]
+    },
+    {
+      "category": "Surgeon",
+      "specialities": [
+        "All",
+        "General Surgery",
+        "Cardiothoracic Surgery",
+        "Neurosurgery"
+      ]
+    }
+  ],
+  "symptomMapping": [
+    {
+      "category": "Cardiologist",
+      "specialities": [
+        {
+          "speciality": "Heart Failure Specialist",
+          "keywords": [
+            "chest pain",
+            "shortness of breath",
+            "fatigue",
+            "swelling in legs",
+            "irregular heartbeat"
+          ]
+        },
+        {
+          "speciality": "Pulmonary Hypertension Specialist",
+          "keywords": [
+            "high blood pressure",
+            "dizziness",
+            "blue lips",
+            "chest pressure"
+          ]
+        },
+        {
+          "speciality": "Electrophysiologist",
+          "keywords": [
+            "palpitations",
+            "fainting",
+            "rapid heartbeat"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Dentist",
+      "specialities": [
+        {
+          "speciality": "Endodontist",
+          "keywords": [
+            "tooth pain",
+            "sensitivity to hot or cold",
+            "swollen gums",
+            "tooth decay"
+          ]
+        },
+        {
+          "speciality": "Periodontist",
+          "keywords": [
+            "gum disease",
+            "bleeding gums",
+            "loose teeth",
+            "bad breath"
+          ]
+        },
+        {
+          "speciality": "Pediatric Dentistry",
+          "keywords": [
+            "child dental care",
+            "baby teeth issues",
+            "teething problems",
+            "cavities in children"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Dermatologist",
+      "specialities": [
+        {
+          "speciality": "Dermatopathology",
+          "keywords": [
+            "skin rashes",
+            "skin biopsy",
+            "moles",
+            "skin cancer"
+          ]
+        },
+        {
+          "speciality": "Laser Surgery",
+          "keywords": [
+            "skin lesions",
+            "scar treatment",
+            "wrinkles",
+            "tattoo removal"
+          ]
+        },
+        {
+          "speciality": "Pediatric Dermatology",
+          "keywords": [
+            "eczema in children",
+            "diaper rash",
+            "birthmarks",
+            "pediatric skin conditions"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Diabetologist",
+      "specialities": [
+        {
+          "speciality": "General",
+          "keywords": [
+            "high blood sugar",
+            "frequent urination",
+            "increased thirst",
+            "weight loss"
+          ]
+        },
+        {
+          "speciality": "Gestational Diabetes",
+          "keywords": [
+            "diabetes during pregnancy",
+            "blurred vision",
+            "nausea during pregnancy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Endocrinologist",
+      "specialities": [
+        {
+          "speciality": "Thyroid Disease",
+          "keywords": [
+            "thyroid problems",
+            "weight gain",
+            "fatigue",
+            "hair loss"
+          ]
+        },
+        {
+          "speciality": "Pituitary Gland",
+          "keywords": [
+            "hormonal imbalance",
+            "growth issues",
+            "infertility",
+            "headaches"
+          ]
+        },
+        {
+          "speciality": "PCOS/PCOD",
+          "keywords": [
+            "irregular periods",
+            "ovarian cysts",
+            "acne",
+            "excessive hair growth"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "ENT",
+      "specialities": [
+        {
+          "speciality": "Rhinology",
+          "keywords": [
+            "nasal congestion",
+            "sinus infections",
+            "loss of smell",
+            "nasal polyps"
+          ]
+        },
+        {
+          "speciality": "Head & Neck Surgery",
+          "keywords": [
+            "neck lumps",
+            "head tumors",
+            "throat pain",
+            "difficulty swallowing"
+          ]
+        },
+        {
+          "speciality": "Otologist (Ear Infections)",
+          "keywords": [
+            "ear infections",
+            "hearing loss",
+            "ear pain",
+            "dizziness"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "General Physician",
+      "specialities": [
+        {
+          "speciality": "Family Medicine",
+          "keywords": [
+            "general health check-ups",
+            "fever",
+            "cold and flu",
+            "general wellness"
+          ]
+        },
+        {
+          "speciality": "General Medicine",
+          "keywords": [
+            "headache",
+            "stomach pain",
+            "general weakness"
+          ]
+        },
+        {
+          "speciality": "Pediatrics",
+          "keywords": [
+            "child health check-ups",
+            "vaccinations",
+            "fever in children",
+            "nutritional advice"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Gynecologist",
+      "specialities": [
+        {
+          "speciality": "Maternal-Fetal Medicine",
+          "keywords": [
+            "high risk pregnancy",
+            "pregnancy complications",
+            "fetal abnormalities",
+            "gestational diabetes"
+          ]
+        },
+        {
+          "speciality": "Infertility",
+          "keywords": [
+            "difficulty conceiving",
+            "reproductive health",
+            "IVF treatments",
+            "ovulation issues"
+          ]
+        },
+        {
+          "speciality": "Reproductive Endocrinology",
+          "keywords": [
+            "hormonal infertility",
+            "polycystic ovaries",
+            "hormone therapy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Neurologist",
+      "specialities": [
+        {
+          "speciality": "Multiple Sclerosis",
+          "keywords": [
+            "numbness",
+            "vision problems",
+            "muscle weakness",
+            "balance issues"
+          ]
+        },
+        {
+          "speciality": "Nueromuscular Medicine",
+          "keywords": [
+            "muscle cramps",
+            "fatigue",
+            "difficulty walking"
+          ]
+        },
+        {
+          "speciality": "Epileptology",
+          "keywords": [
+            "seizures",
+            "uncontrolled movements"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Oncologist",
+      "specialities": [
+        {
+          "speciality": "Radiation Oncology",
+          "keywords": [
+            "radiation therapy",
+            "tumor shrinkage",
+            "radiation side effects"
+          ]
+        },
+        {
+          "speciality": "Pediatric Oncology",
+          "keywords": [
+            "child cancer",
+            "leukemia",
+            "brain tumors in children"
+          ]
+        },
+        {
+          "speciality": "Surgical Oncologist",
+          "keywords": [
+            "cancer surgery",
+            "tumor removal",
+            "biopsies"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Ophthalmologist",
+      "specialities": [
+        {
+          "speciality": "Neuro-Ophthalmology",
+          "keywords": [
+            "double vision",
+            "optic nerve issues",
+            "eye movement disorders"
+          ]
+        },
+        {
+          "speciality": "Oculoplastics",
+          "keywords": [
+            "eye reconstruction",
+            "eyelid surgery",
+            "tear duct issues",
+            "eye injuries"
+          ]
+        },
+        {
+          "speciality": "Pediatric Ophthalmology",
+          "keywords": [
+            "lazy eye",
+            "child eye exams",
+            "vision problems in children"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Orthopedician",
+      "specialities": [
+        {
+          "speciality": "Sports Medicine",
+          "keywords": [
+            "sports injuries",
+            "muscle strains",
+            "joint pain"
+          ]
+        },
+        {
+          "speciality": "Joint Replacement Surgeon",
+          "keywords": [
+            "hip replacement",
+            "knee replacement",
+            "joint pain"
+          ]
+        },
+        {
+          "speciality": "Pediatric Orthopedic Surgeon",
+          "keywords": [
+            "child fractures",
+            "growth plate issues",
+            "clubfoot"
+          ]
+        }
+      ]
+    }
+  ]
+}
