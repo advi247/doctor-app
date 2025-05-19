@@ -2,7 +2,5 @@
 
 My Internship Project
 
-![Screenshot_20241007_144509_Expo Go](https://github.com/user-attachments/assets/61cd4ae9-4d98-4d8e-9c7c-1496693f4206)
-![Screenshot_20241007_110238_Expo Go](https://github.com/user-attachments/assets/3083549b-9c47-4dbf-b874-6311516a41f4)
-![Screenshot_20241007_144549_Expo Go](https://github.com/user-attachments/assets/bcd43ca3-9fa1-4879-8954-163cdc33ce32)
-![Screenshot_20241007_144612_Expo Go](https://github.com/user-attachments/assets/3c61551c-b721-48ae-a873-fcb5313936b4)
+![WhatsApp Image 2025-05-19 at 11 29 32_ef51eb85](https://github.com/user-attachments/assets/3ab26e95-4812-4f5b-bb9b-d4ddb2547e5a)
+![WhatsApp Image 2025-05-19 at 11 29 32_9caa7580](https://github.com/user-attachments/assets/eed4ceb2-feb2-478c-8ab3-32312d72daf1)
